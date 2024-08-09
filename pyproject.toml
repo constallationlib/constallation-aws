@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "constallation-aws"
-version = "0.1a"
+version = "1.0.0"
 description = ""
 authors = ["CoulterStutz <coultercash@gmail.com>"]
 readme = "README.md"
